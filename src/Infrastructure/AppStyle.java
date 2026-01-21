@@ -14,7 +14,7 @@ import javax.swing.border.LineBorder;
 public abstract class AppStyle {
     private static final String FONT_FAMILY     = "NovaMono";
     
-    public static final Color COLOR_FONT        = new Color(220, 10, 20); //(218, 8, 40)
+    public static final Color COLOR_FONT        = new Color(15, 86, 150); //(218, 8, 40)
     public static final Color COLOR_FONT_LIGHT  = new Color(100, 100, 100);
     public static final Color COLOR_CURSOR      = Color.black;
     public static final Color COLOR_BORDER      = Color.lightGray;

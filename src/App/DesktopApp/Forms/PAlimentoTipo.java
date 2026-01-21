@@ -49,6 +49,7 @@ public class PAlimentoTipo extends JPanel implements ActionListener {
             btnEliminar.addActionListener(  e -> btnEliminarClick   ());
             btnCancelar.addActionListener(  e -> btnCancelarClick   ());
 
+
             loadRowData();
             showRowData();
             showDataTable();
@@ -189,6 +190,7 @@ public class PAlimentoTipo extends JPanel implements ActionListener {
     private PatTextBox 
             txtIdSexo   = new PatTextBox(),
             txtNombre   = new PatTextBox();
+
     private PatButton 
             btnPageIni  = new PatButton(" |< "),
             btnPageAnt  = new PatButton(" << "),

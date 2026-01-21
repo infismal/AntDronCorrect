@@ -246,4 +246,15 @@ Cuando me acerco a esta imagen, puedo ver que es lo que retorna
 
 - Crear en combos y cosecha pendiente
 
+--- 
+
+## Uso de COMBO o SELECTOR
+
+Factory, funciona como bypass
+
+# PILAS CON EL BURBUJEO, EL THROWS CUANDO DEBO BUBUJEAR HASTA LA CAPA BL, ya en UI se aplica TRY-CATCH
+
+
+
+
 

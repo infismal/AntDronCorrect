@@ -1,6 +1,10 @@
 //  © 2K26 ❱──💀──❰ pat_mic ? code is life : life is code
 
 import App.DesktopApp.Forms.AppStart;
+
+import com.formdev.flatlaf.FlatDarkLaf;
+import com.formdev.flatlaf.FlatLaf;
+
 import App.DesktopApp.Forms.AppSplashScreen;
 
 public class App {
@@ -8,7 +12,7 @@ public class App {
 
         //tetsing: BL
         try {  
-
+            FlatLaf.setup(new FlatDarkLaf());
             new AppSplashScreen();
             new AppStart("ants");
                  
